@@ -1,0 +1,42 @@
+[
+  [
+    {
+      "title": "Volkswagen Passat B7 comfort plus",
+      "year": "2012",
+      "links": "https://auto.ria.com/uk/auto_volkswagen_passat_b7_27926063.html",
+      "price_USE": "12 000",
+      "price_UA": "339 000",
+      "city": "Киев",
+      "img": "volkswagen_passat-b7__363770474bx.jpg"
+    },
+    {
+      "title": "Volkswagen Tiguan Sport",
+      "year": "2012",
+      "links": "https://auto.ria.com/uk/auto_volkswagen_tiguan_28529155.html",
+      "price_USE": "15 799",
+      "price_UA": "447 112",
+      "city": "Киев",
+      "img": "volkswagen_tiguan__364948286bx.jpg"
+    }
+  ],
+  [
+    {
+      "title": "Volkswagen Tiguan",
+      "year": "2016",
+      "links": "https://auto.ria.com/uk/auto_volkswagen_tiguan_27875235.html",
+      "price_USE": "15 900",
+      "price_UA": "449 970",
+      "city": "Киев",
+      "img": "volkswagen_tiguan__350443591bx.jpg"
+    },
+    {
+      "title": "Volkswagen Tiguan",
+      "year": "2016",
+      "links": "https://auto.ria.com/uk/auto_volkswagen_tiguan_28392921.html",
+      "price_USE": "14 600",
+      "price_UA": "413 764",
+      "city": "Кременчуг",
+      "img": "volkswagen_tiguan__362263976bx.jpg"
+    }
+  ]
+]
